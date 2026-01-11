@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+}
+
+
+.password-box {
+background: rgba(255, 255, 255, 0.25);
+padding: 25px;
+border-radius: 20px;
+}
+
+
+.password-box label {
+font-size: 22px;
+display: block;
+margin-bottom: 15px;
+}
+
+
+.password-row {
+display: flex;
+gap: 10px;
+}
+
+
+.password-row input {
+flex: 1;
+padding: 15px;
+border-radius: 999px;
+border: none;
+outline: none;
+font-size: 18px;
+}
+
+
+.password-row button {
+padding: 0 25px;
+border-radius: 999px;
+border: none;
+background: #2c2fa6;
+color: white;
+font-size: 16px;
+cursor: pointer;
+}
+
+
+.password-row button:hover {
+background: #1f2180;
+}
+
+
+.error {
+margin-top: 15px;
+color: #ffb3b3;
+display: none;
+}
+</style>
+</head>
+<body>
+
+
+<div class="container">
+<div class="emoji">🤫</div>
+
+
+<div class="right">
+<h1>chuuuut ...<br>Ne dévoilons pas notre travail.</h1>
+
+
+<div class="password-box">
+<label>Mot de passe</label>
+<div class="password-row">
+<input type="password" id="password" placeholder="••••••••">
+<button onclick="checkPassword()">OK</button>
+</div>
+<div class="error" id="error">Mot de passe incorrect</div>
+</div>
+</div>
+</div>
+
+
+<script>
+const correctPassword = "secret123";
+
+
+function checkPassword() {
+const input = document.getElementById("password").value;
+const error = document.getElementById("error");
+
+
+if (input === correctPassword) {
+window.location.href = "protected.html";
+} else {
+error.style.display = "block";
+}
+}
+</script>
+
+
+</body>
+</html>
