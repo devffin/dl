@@ -1,0 +1,4 @@
+1.0
+B3 = OFF canal
+B2 = BETA canal
+B1 = PRV canal
