@@ -1,2 +1,3 @@
 VM #0001 : Zorin OS 18 / 8Go RAM / 40Go Disque / 1 mois (FIN DEMANDEE)
 VM #0001 : Fedora      / 8Go RAM / 40Go Disque / 1 mois (FIN LE 25/02)
+VM #0004 : Windows 8.1 / 4Go RAM / 32Go Disque / 1 mois (FIN LE 15/03)
