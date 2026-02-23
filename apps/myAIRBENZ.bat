@@ -14,6 +14,9 @@ echo ====================================================
 echo Actualites:
 echo.
 powershell -command "Invoke-WebRequest -Uri 'https://devffin.github.io/dl/ma-actus.txt' -OutFile '%temp%\actus.txt'" 2>nul
+if errorlevel 1 (
+    echo Erreur lors du telechargement des actualites. Verifiez votre connexion internet.
+)
 type "%temp%\actus.txt" 2>nul || echo Aucune actualité disponible.
 del "%temp%\actus.txt" 2>nul
 echo.

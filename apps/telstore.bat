@@ -119,6 +119,8 @@ if exist "apps\meteo.bat" (
     echo Telechargement de Meteorologie...
     powershell -command "Invoke-WebRequest -Uri 'https://devffin.github.io/dl/apps/meteo.bat' -OutFile 'apps\meteo.bat'" 2>nul
     powershell -command "Invoke-WebRequest -Uri 'https://devffin.github.io/dl/apps/meteo.version.txt' -OutFile 'apps\meteo.version.txt'" 2>nul
+    powershell -command "Invoke-WebRequest -Uri 'https://devffin.github.io/dl/apps/meteo_get.ps1' -OutFile 'apps\meteo_get.ps1'" 2>nul
+    powershell -command "Invoke-WebRequest -Uri 'https://devffin.github.io/dl/apps/meteo_check.ps1' -OutFile 'apps\meteo_check.ps1'" 2>nul
     if exist "apps\meteo.bat" (
         call "apps\meteo.bat"
     ) else (
