@@ -1,5 +1,7 @@
 {
-  "id": 1,
+  "id": 2,
   "title": "Test",
-  "content": "Test"
+  "content": "Test",
+  "icon": "info",
+  "buttonText": "OK"
 }
