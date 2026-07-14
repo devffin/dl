@@ -1,1 +1,1 @@
-1.0-alpha-preview6
+1.0-alpha-preview7
