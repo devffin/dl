@@ -1,3 +1,5 @@
+=== ATTENTION : A partir du 1er octobre, les demandes de VM ne seront disponibles que sur LNET. ===
+
 VM #0001 : Zorin OS 18 / 8Go RAM / 40Go Disque / 1 mois (FIN DEMANDEE)
 VM #0001 : Fedora      / 8Go RAM / 40Go Disque / 1 mois (FIN)
 VM #0004 : Windows 8.1 / 4Go RAM / 32Go Disque / 1 mois (FIN)
