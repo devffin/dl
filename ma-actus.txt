@@ -1,4 +1,5 @@
-- [IMPORTANT] AIRBENZTV fait une pause en. Modern Edition la remplacera.
-- [APPLI] AIRBENZ+ pourrait devenir AIRBENZ OPR+.
+- [IMPORTANT] AIRBENZTV Network est sorti : airbenz.duckdns.org
+- [FREEVM] A partir du 1er octobre, toutes les demandes devront être faites via LNET.
+- [TELE] Le groupe Yotvin va peut à peut arrêter ou donner ses chaînes pour signer leur fin.
 - [COMMUNAUTE] Rejoignez notre communaute Discord : https://discord.gg/qDTtWvnG8Y
 - [TELSERVICE] La version 26.2 annonce un grand changement, le changement du langage de programmation utilisé.
