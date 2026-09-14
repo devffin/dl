@@ -1,1 +1,3 @@
+=== ATTENTION : A partir du 1er octobre, les demandes de VM ne seront disponibles que sur LNET. ===
+
 #0002 : Zorin OS 18 / 2Go RAM / 32Go Disque / 7 jours (FIN)
