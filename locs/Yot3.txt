@@ -1,2 +1,4 @@
+=== ATTENTION : A partir du 1er octobre, les demandes de VM ne seront disponibles que sur LNET. ===
+
 #0003 : Windows 10  / 2Go RAM / 20Go Disque / 1 jour (FIN)
 #0005 : Windows 10  / 2Go RAM / 20Go Disque / Indetermine (EXP)
