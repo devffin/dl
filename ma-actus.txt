@@ -1,5 +1,5 @@
-- [IMPORTANT] AIRBENZTV Network est sorti : airbenz.duckdns.org
+- [IMPORTANT] AIRBENZTV Network a actuellement des problemes
 - [FREEVM] A partir du 1er octobre, toutes les demandes devront être faites via LNET.
-- [TELE] Le groupe Yotvin va peut à peut arrêter ou donner ses chaînes pour signer leur fin.
+- [TELE] Le groupe Yotvin annonce une evolution de LibTV : Lib3
 - [COMMUNAUTE] Rejoignez notre communaute Discord : https://discord.gg/qDTtWvnG8Y
-- [TELSERVICE] La version 26.2 annonce un grand changement, le changement du langage de programmation utilisé.
+- [COMMUNAUTE] AIRBENZTV Network : airbenz.duckdns.org
