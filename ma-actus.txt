@@ -1,5 +1,5 @@
-- [IMPORTANT] AIRBENZTV Network a actuellement des problemes
+- [NETWORK] AIRBENZTV Network abandonne Duck DNS
 - [FREEVM] A partir du 1er octobre, toutes les demandes devront être faites via LNET.
-- [TELE] Le groupe Yotvin annonce une evolution de LibTV : Lib3
+- [TELE] Lib3 s'est lance sans souci
 - [COMMUNAUTE] Rejoignez notre communaute Discord : https://discord.gg/qDTtWvnG8Y
-- [COMMUNAUTE] AIRBENZTV Network : airbenz.duckdns.org
+- [COMMUNAUTE] AIRBENZTV Network : airbenz.duckdns.org (bientot plus dispo)
